@@ -44,7 +44,7 @@ bcrypt is used because:
 Clone the repository:
 
 ```bash
-git clone https://github.com/nathnaeltamirat/auth.git
+git clone https://github.com/nathnaeltamirat/gdg-express-auth1.git
 cd auth
 ```
 
