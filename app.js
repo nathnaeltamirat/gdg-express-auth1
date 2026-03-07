@@ -1,6 +1,6 @@
 import express from "express"
 import { PORT } from "./config/env.js"
-import connectToDatabase from "./database/database.js"
+import connectToDatabase from "./database/mongodb.js"
 import errorMiddleware from "./middlewares/error.middleware.js"
 import authRouter from "./routes/auth.routes.js"
 
